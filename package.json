@@ -39,7 +39,7 @@
     "cors": "^2.8.5",
     "discord.js": "^13.6.0",
     "dotenv": "^10.0.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "hardhat-deploy": "^0.10.4",
     "hardhat-deploy-ethers": "^0.3.0-beta.13",
     "hardhat-gas-reporter": "^1.0.7",
