@@ -43,7 +43,7 @@
     "hardhat-deploy": "^0.10.4",
     "hardhat-deploy-ethers": "^0.3.0-beta.13",
     "hardhat-gas-reporter": "^1.0.7",
-    "mongoose": "^6.1.6",
+    "mongoose": "^6.4.6",
     "morgan": "^1.10.0",
     "node-cron": "^3.0.0",
     "node-fetch": "^2.6.7",
